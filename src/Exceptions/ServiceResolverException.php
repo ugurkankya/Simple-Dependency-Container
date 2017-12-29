@@ -6,4 +6,4 @@
 
 namespace Container\Exceptions;
 
-class ServiceExistsException extends \Exception {}
+class ServiceResolverException extends \Exception {}
